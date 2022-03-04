@@ -1,5 +1,5 @@
 # rock_paper_scissors
-Rock paper scissors game where you play against the computer.
+Rock paper scissors game, which can be played through the console.
 
 What I learned
 
